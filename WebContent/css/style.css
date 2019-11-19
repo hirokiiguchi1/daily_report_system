@@ -87,6 +87,7 @@ button {
     color: #721c24;
     background-color: #f8d7da;
 }
+
 table#employee_list th {
     width: 30%;
     padding: 10px 2%;
@@ -102,9 +103,6 @@ tr.row1 {
 }
 tr.row0 {
         background-color: #ffffff;
-}
-select {
-    height: 30px;
 }
 #header_menu {
     width: 57%;
